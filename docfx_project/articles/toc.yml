@@ -1,4 +1,11 @@
-- name: Introduction
-  href: intro.md
-- name: convolution
+- name: Convolution
   href: convolution.md
+  items: 
+      - name: Essential Basics:A Primer on Image Processing for Beginners
+        href: convolutionBasics.md
+      - name: whyConvolution
+        href: whyConvolution.md
+      - name: The Convolution Process
+        href: The Convolution Process.md
+      - name: Basic Convolution Process
+        href: Convolution Example.md

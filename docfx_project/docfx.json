@@ -26,7 +26,8 @@
           "articles/**.md",
           "articles/**/toc.yml",
           "toc.yml",
-          "*.md"
+          "*.md",
+          "custom.css"
         ]
       }
     ],
